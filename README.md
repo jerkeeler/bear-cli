@@ -6,7 +6,7 @@ This really grew out of me wanting to randomly open up a note in Bear, so that's
 
 ### Installation
 
-Download the generated binary from the [releases page](https://github.com/jerkeeler/bear-cli/releases). Store the binary in a directory of your choosing that is added to your `$PATH` environment variable (i.e. `/usr/local/bin`). That's it!
+Download the generated `bear-cli` binary from the [releases page](https://github.com/jerkeeler/bear-cli/releases). Store the binary in a directory of your choosing that is added to your `$PATH` environment variable (i.e. `/usr/local/bin`). That's it!
 
 ### Commands
 
